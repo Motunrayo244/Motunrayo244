@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Motunrayo244
-- 👀 I’m interested in artificial Intelligence and Big data
-- 🌱 I’m currently learning data engineering with python
-- 💞️ I’m looking to collaborate on data engineering projects
-- 📫 How to reach me ibiyomotunrayo@gmail.com
+- 👋 Hi, I’m Motunrayo Ibiyo
+- 👀 I am aspiring to become a Machine Learning Engineer
+- 🌱 I’m currently working on several research projects that exploit machine learning algorithms to automate processes.
+- 💞️ I have a strong background in data engineering and the building of data pipelines.
+- 📫 You can reach me via email  at ibiyomotunrayo@gmail.com
+- You can also reach out to me on LinkedIn https://www.linkedin.com/in/motunrayo-ibiyo/
 
-<!---
-Motunrayo244/Motunrayo244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
