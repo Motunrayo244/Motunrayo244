@@ -22,3 +22,7 @@ Python | SQL | Pandas | PyTorch | Scikit-learn | FastAPI | LangChain
 
 Data & Infrastructure:
 Snowflake | Flyte | Airflow | Docker | Streamlit | kafka
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Motunrayo244&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motunrayo244&layout=compact&theme=radical)
