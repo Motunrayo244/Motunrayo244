@@ -25,9 +25,7 @@ Snowflake | Flyte | Airflow | Docker | Streamlit | kafka
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Motunrayo244&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motunrayo244&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Motunrayo244&theme=radical)
 
 ![Motunrayo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Motunrayo244&theme=radical)
