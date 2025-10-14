@@ -24,7 +24,6 @@ Data & Infrastructure:
 Snowflake | Flyte | Airflow | Docker | Streamlit | kafka
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Motunrayo244&show_icons=true&theme=radical)
 
 ![Motunrayo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Motunrayo244&theme=radical)
 
