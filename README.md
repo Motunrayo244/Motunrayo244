@@ -1,7 +1,6 @@
 👋 Hi there,
 
-Welcome to my corner! I am an ML scientist passionate about transforming data and intelligent algorithms into practical, human-centered systems.
-
+Welcome to my corner! 
 I enjoy building scalable, trustworthy, and interpretable AI systems — from LLM-powered applications to automated data pipelines and evaluation frameworks.
 
 🚀 About Me
