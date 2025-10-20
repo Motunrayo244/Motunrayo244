@@ -14,15 +14,7 @@ I enjoy building scalable, trustworthy, and interpretable AI systems — from LL
 -- 🌍 Open to global collaborations.
 
 
-🛠️ Tech Stack
-
-Languages & Frameworks:
-Python | SQL | Pandas | PyTorch | Scikit-learn | FastAPI | LangChain 
-
-Data & Infrastructure:
-Snowflake | Flyte | Airflow | Docker | Streamlit | kafka
 
 
 
-![Motunrayo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Motunrayo244&theme=radical)
 
